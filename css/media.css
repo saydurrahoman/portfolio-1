@@ -1,0 +1,424 @@
+ /* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+/* header start */
+.N_logo img {
+    width: 100px;
+}
+.navbar-toggler-icon{
+    width: 20px;
+    height: 15px;
+}
+.dropdown-menu[data-bs-popper] {
+    top: 20px;
+    left: 0px;
+}
+/* header end */
+/* about start */
+.banner_text{
+    padding-top: 30px;
+    padding-right: 0;
+    text-align: center;
+}
+.banner_text h4{
+    font-size: 25px;
+}
+.banner_text h2{
+    font-size: 34px;
+    padding-bottom: 10px;
+}
+/* about end */
+/* counter start */
+.counter_up {
+    padding-bottom: 25px;
+}
+.counter_text h2 {
+    font-size: 25px;
+    font-weight: 700;
+}
+.counter_text {
+    padding: 30px 0;
+}
+/* counter end */
+/* services start */
+.service {
+    padding-bottom: 15px;
+}
+.title {
+    margin-bottom: 25px;
+}
+.title h2 {
+    font-size: 25px;
+}
+.title h2 {
+    font-size: 30px;
+}
+.ser_contain .icon i {
+    font-size: 35px;
+}
+.ser_contain h2 {
+    font-size: 25px;
+}
+/* services end */
+/* skill start */
+.skill {
+    padding-bottom: 20px;
+}
+.text_skill {
+    padding: 0px;
+}
+.text_skill h4 {
+    font-size: 24px;
+}
+/* skill end */
+/* porfolio start */
+.filter {
+    margin-bottom: 22px;
+    padding: 0;
+}
+/* portfolio end */
+/* testimonial start */
+.testimonial {
+    padding-bottom: 0px;
+}
+.testi_item{
+    text-align: center;
+    margin-bottom: 20px;
+}
+.testi_item img {
+    width: 18%;
+}
+.testi_item h3 {
+    font-size: 18px;
+}
+.testi_item span {
+    font-size: 16px;
+}
+/* testimonial end */
+/* footer-top start */
+.ft_about{
+    text-align: center;
+    padding: 0;
+}
+.ft_about img {
+    width: 45%;
+    margin-bottom: 10px;
+}
+.ftservice{
+    text-align: center;
+}
+.ftservice h2 {
+    margin-bottom: 10px;
+    font-size: 30px;
+}
+.contact_text{
+    text-align: center;
+}
+.contact_text h2 {
+    margin-bottom: 10px;
+    font-size: 30px;
+}
+/* footer-top end */
+/* footer start */
+.footer{
+    text-align: center;
+}
+/* footer end */
+}
+
+ /* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+/* header start */
+.N_logo img {
+    width: 120px;
+}
+.dropdown-menu[data-bs-popper] {
+    top: 20px;
+    left: 0px;
+}
+.navbar-toggler-icon{
+    width: 25px;
+    height: 20px;
+}
+/* header end */
+/* about start */
+.banner_text{
+    padding-top: 30px;
+    padding-right: 0;
+    text-align: center;
+}
+.banner_text h2{
+    font-size: 34px;
+}
+/* about end */
+
+/* counter start */
+.counter_up {
+    padding-bottom: 25px;
+}
+.counter_text h2 {
+    font-size: 25px;
+    font-weight: 700;
+}
+.counter_text {
+    padding: 30px 0;
+}
+/* counter end */
+/* services start */
+.service {
+    padding-bottom: 15px;
+}
+.title {
+    margin-bottom: 25px;
+}
+.title h2 {
+    font-size: 25px;
+}
+.title h2 {
+    font-size: 30px;
+}
+.ser_contain .icon i {
+    font-size: 35px;
+}
+.ser_contain h2 {
+    font-size: 25px;
+}
+/* services end */
+/* skill start */
+.skill {
+    padding-bottom: 20px;
+}
+.text_skill {
+    padding: 0px;
+}
+.text_skill h4 {
+    font-size: 24px;
+}
+/* skill end */
+/* porfolio start */
+.filter {
+    margin-bottom: 22px;
+    padding: 0;
+}
+/* portfolio end */
+/* testimonial start */
+.testimonial {
+    padding-bottom: 0px;
+}
+.testi_item{
+    text-align: center;
+    margin-bottom: 20px;
+}
+.testi_item img {
+    width: 18%;
+}
+.testi_item h3 {
+    font-size: 18px;
+}
+.testi_item span {
+    font-size: 16px;
+}
+/* testimonial end */
+/* footer-top start */
+.ft_about{
+    text-align: center;
+    padding: 0;
+}
+.ft_about img {
+    width: 30%;
+    margin-bottom: 10px;
+}
+.ftservice{
+    text-align: center;
+}
+.ftservice h2 {
+    margin-bottom: 10px;
+    font-size: 30px;
+}
+.contact_text{
+    text-align: center;
+}
+.contact_text h2 {
+    margin-bottom: 10px;
+    font-size: 30px;
+}
+/* footer-top end */
+/* footer start */
+.footer{
+    text-align: center;
+}
+/* footer end */
+}
+
+ /* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+/* header start */
+.dropdown-menu[data-bs-popper] {
+    top: 20px;
+    left: 0px;
+}
+.navbar-toggler-icon{
+    width: 30px;
+    height: 20px;
+}
+/* header end */
+/* about start */
+.banner {
+    padding-top: 0;
+    text-align: center;
+}
+.banner_text{
+    padding-right: 0;
+    padding-top: 20px;
+}
+.banner_text h2{
+    font-size: 30px;
+    padding-bottom: 10px;
+}
+.banner_text h4 {
+    font-size: 25px;
+}
+.infomation h6{
+    font-size: 13px;
+}
+.social_icon a{
+    margin: 0;
+}
+.c_btn {
+    margin-top: 10px;
+}
+/* about end */
+/* counter start */
+.counter_text h2 {
+    font-size: 25px;
+    font-weight: 700;
+}
+.counter_text {
+    padding: 30px 0;
+}
+/* counter end */
+/* services start */
+.title {
+    margin-bottom: 25px;
+}
+.ser_contain h2 {
+    font-size: 30px;
+}
+.title h2 {
+    font-size: 30px;
+}
+/* services end */
+/* skill start */
+.skill {
+    padding-bottom: 20px;
+}
+.text_skill {
+    padding: 0px 70px 0px 70px;
+}
+.text_skill h4 {
+    font-size: 24px;
+}
+/* skill end */
+/* porfolio start */
+.filter {
+    margin-bottom: 22px;
+    padding: 0;
+}
+/* portfolio end */
+/* testimonial start */
+.testi_item h3 {
+    font-size: 18px;
+}
+.testi_item span{
+    font-size: 16px;
+}
+/* testimonial end */
+/* footer-top start */
+.ft_about{
+    padding: 0;
+}
+.ft_about img {
+    width: 45%;
+    margin-bottom: 10px;
+    
+}
+.ftservice h2 {
+    margin-bottom: 10px;
+    font-size: 20px;
+}
+.contact_text h2 {
+    margin-bottom: 10px;
+    font-size: 20px;
+}
+.contact_text h6 {
+    font-size: 15px;
+}
+.contact_text span{
+    font-size: 11px;
+}
+/* footer-top end */
+}
+
+ /* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+/* header start */
+.dropdown-menu[data-bs-popper] {
+    top: 20px;
+}
+/* header end */
+/* about start */
+.banner {
+    padding: 0;
+}
+.banner_text{
+    padding-right: 15px;
+}
+.banner_text h2{
+    font-size: 30px;
+    padding-bottom: 10px;
+}
+.banner_text h4 {
+    font-size: 25px;
+}
+.infomation h6{
+    font-size: 13px;
+}
+.social_icon a{
+    margin: 0;
+}
+.c_btn {
+    margin-top: 10px;
+}
+/* about end */
+/* service start */
+.ser_contain{
+    padding: 0;
+}
+.ser_contain h2 {
+    font-size: 25px;
+}
+/* service end */
+/* skill start */
+.text_skill {
+    padding: 0px 50px 0px 50px;
+}
+/* skill end */
+}
+
+ /* Extra large devices (large desktops, 1200px and up) */
+ @media (min-width: 1200px) and (max-width: 1399.98px) {
+ /* header start */
+.dropdown-menu[data-bs-popper] {
+    top: 20px;
+}
+/* header end */
+
+}
+
+ /* Extra Extra large devices (large desktops, 1400px and up) */
+@media (min-width: 1400px) {
+/* header start */
+.dropdown-menu[data-bs-popper] {
+    top: 25px;
+}
+/* header end */
+}
